@@ -1,2 +1,46 @@
-
 /* Your CSS Code here. */
+
+*{
+	background-color: #475f81;
+	margin: 0;
+	color: white;
+}
+
+#lnkedin{
+	margin-bottom: 30px;
+}
+
+.text{
+	margin-left: 30px;
+}
+figure{
+	text-align: center;
+}
+#profile{
+	border-radius: 80px;
+	width: 45vw;
+}
+
+#name{
+	font-size: 40px;
+	text-align: center;
+	margin : 30px;
+	margin-bottom: 50px;
+	text-decoration: underline
+}
+ul{
+	list-style-position: inside;	
+}
+
+li{
+	display: inline-block;
+	list-style: circle;
+	margin: 15px;
+	margin-left: 25px;
+	padding: 5px;
+	border: 2px solid;
+	border-radius: 8px;
+	
+}
+
+
